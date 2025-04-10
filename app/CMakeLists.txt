@@ -7,7 +7,7 @@ set(LIB_PATH /usr/local/lib)
 
 add_library(MyList SHARED IMPORTED) # or STATIC instead of SHARED
 set_target_properties(MyList PROPERTIES
-  IMPORTED_LOCATION "${LIB_PATH}/MyList/libMyList.dylib"
+  IMPORTED_LOCATION "${LIB_PATH}/MyList/libMyList.so"
   INTERFACE_INCLUDE_DIRECTORIES "${INC_PATH}/MyList"
 )
 
