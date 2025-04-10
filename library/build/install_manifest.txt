@@ -1,0 +1,4 @@
+/usr/local/lib/MyList/libMyList.so
+/usr/local/include/MyList/MyList.hpp
+/usr/local/lib/cmake/MyList/MyList-config.cmake
+/usr/local/lib/cmake/MyList/MyList-config-noconfig.cmake

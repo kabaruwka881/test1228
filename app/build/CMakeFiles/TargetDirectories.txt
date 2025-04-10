@@ -1,0 +1,3 @@
+/Users/denkabaruhin/desktop/test/app/build/CMakeFiles/app.dir
+/Users/denkabaruhin/desktop/test/app/build/CMakeFiles/edit_cache.dir
+/Users/denkabaruhin/desktop/test/app/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libMyList.so -install_name @rpath/libMyList.so CMakeFiles/MyList.dir/MyList.cpp.o

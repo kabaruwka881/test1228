@@ -1,0 +1,7 @@
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/MyList.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/edit_cache.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/rebuild_cache.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/list_install_components.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/install.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/install/local.dir
+/Users/denkabaruhin/Desktop/test/library/build/CMakeFiles/install/strip.dir
